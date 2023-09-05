@@ -38,7 +38,7 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-    - title                               : Simple Interface 
+  - title                                 : Simple Interface 
     description                           : Set up vibration reminders in just a few taps.
     fontawesome_icon_name                 : magic
     
