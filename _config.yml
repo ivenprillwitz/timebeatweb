@@ -13,8 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Timebeat is a minimalist Apple Watch app designed for those moments when you need a discreet reminder. Instead of the usual sound alerts or pop-up notifications, Timebeat uses the Apple Watch's haptic feedback to send a gentle vibration to your wrist at your selected time. Whether you're in a meeting, at a performance, or simply enjoying some quiet time, Timebeat ensures you're reminded without disturbing the peace.
-
+app_description                           : Timebeat is a sleek Apple Watch app offering discreet vibration reminders. Eschewing traditional sound alerts, it harnesses the watch's haptic feedback for gentle nudges at chosen times. Perfect for meetings, performances, or quiet moments, Timebeat keeps you on track without a sound.
 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
