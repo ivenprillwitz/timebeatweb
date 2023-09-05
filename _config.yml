@@ -46,7 +46,7 @@ features                                  :
     description                           : Works seamlessly even when your watch is in silent mode.
     fontawesome_icon_name                 : adjust
 
- - title                                  : Battery Efficient
+  - title                                 : Battery Efficient
     description                           : Designed to use minimal battery, ensuring your watch lasts the entire day.
     fontawesome_icon_name                 : star
 
