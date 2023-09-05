@@ -1,3 +1,9 @@
+---
+layout: page
+title: What's New
+include_in_header: true
+---
+
 # Timebeat Privacy Policy
 
 Effective Date: 05.09.2023
